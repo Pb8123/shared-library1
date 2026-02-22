@@ -1,0 +1,12 @@
+def benjicall() 
+{
+  echo "Hello benji!" 
+}
+def rajcall() 
+{
+  echo "Hello raj!" 
+}
+def novacall() 
+{
+  echo "nova!" 
+}
